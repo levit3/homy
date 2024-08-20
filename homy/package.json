@@ -9,9 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@builder.io/dev-tools": "^1.0.19",
-    "@builder.io/react": "^4.0.4",
-    "@builder.io/sdk": "^2.2.9",
     "@emailjs/browser": "^4.1.0",
     "@fancyapps/ui": "^5.0.33",
     "@hookform/resolvers": "^3.3.2",
