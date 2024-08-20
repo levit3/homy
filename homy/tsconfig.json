@@ -28,7 +28,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/components/ListingDetails/listing-details-sidebar"
+    "src/components/ListingDetails/listing-details-sidebar",
+    "src/app/404.js"
   ],
   "exclude": ["node_modules"]
 }
